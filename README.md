@@ -2,9 +2,9 @@
 Telegram support for CogniCity GRASP
 
 ### Install
-`npm install`
-make sure that node is updated, otherwise you'll get es6 warnings/errors.
-`node -v` should be at least ~0.7.4
+`npm install`  
+make sure that node is updated, otherwise you'll get es6 warnings/errors.  
+`node -v` should be at least ~0.7.4  
 
 ### Run
 `node app.js`
